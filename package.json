@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat Application like WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swetha-14/ChatApp-node.js.git"
+  },
+  "author": "Swetha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swetha-14/ChatApp-node.js/issues"
+  },
+  "homepage": "https://github.com/Swetha-14/ChatApp-node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
